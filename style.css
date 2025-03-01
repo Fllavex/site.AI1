@@ -38,8 +38,9 @@ nav{
     justify-content: center;
 }
 
-.first{
+.row{
     display: flex;
+    justify-content: center;
 }
 
 .button{
@@ -48,14 +49,6 @@ nav{
     padding: 10px;
     border-radius: 20px;
     width: 100px;
-}
-
-.second{
-    display: flex;
-}
-
-.third{
-    display: flex;
 }
 
 .posil{
